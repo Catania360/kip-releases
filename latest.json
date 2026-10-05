@@ -1,7 +1,7 @@
 {
-  "version": "1.0.131",
-  "version_code": 132,
-  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.131/KIP-1.0.131.apk",
-  "release_notes": "Quick Share can text or post a one-page card. It says what K.I.P. is, that this version stays free, and that newer versions are a cup of coffee.",
+  "version": "1.0.132",
+  "version_code": 133,
+  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.132/KIP-1.0.132.apk",
+  "release_notes": "The promo card shows on Quick Share, with the pictures. DM me opens a message.",
   "revoked": []
 }
