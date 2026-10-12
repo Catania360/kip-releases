@@ -1,7 +1,7 @@
 {
-  "version": "1.0.189",
-  "version_code": 190,
-  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.189/KIP-1.0.189.apk",
-  "release_notes": "The SmartBid preview is the estimate by itself. It reads the total back. Save comes after that.",
+  "version": "1.0.190",
+  "version_code": 191,
+  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.190/KIP-1.0.190.apk",
+  "release_notes": "Feature list sits next to Changelog, on the welcome screen and in Settings.",
   "revoked": []
 }
