@@ -1,7 +1,7 @@
 {
-  "version": "1.0.185",
-  "version_code": 186,
-  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.185/KIP-1.0.185.apk",
-  "release_notes": "The tutorial covers SmartBid: where to open it, saved preferences, the business logo, and sending the PDF.",
+  "version": "1.0.186",
+  "version_code": 187,
+  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.186/KIP-1.0.186.apk",
+  "release_notes": "The tutorial says an encrypted backup saves to Downloads/KIP and replaces the previous one.",
   "revoked": []
 }
