@@ -1,7 +1,7 @@
 {
-  "version": "1.0.178",
-  "version_code": 179,
-  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.178/KIP-1.0.178.apk",
-  "release_notes": "Bought finishers and weapons stay yours. Spells are the secondary hunt shot: Ichor, Cinder, Squall, Bile, Pitch, and Marrow. Each one bleeds and stays in the rotation.",
+  "version": "1.0.179",
+  "version_code": 180,
+  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.179/KIP-1.0.179.apk",
+  "release_notes": "Mate Toss keeps grips. Clear Cliff, River, and Storm to open Sling, Skip, and Hammer. Recall can lengthen a throw, clear a strike, or hold the flag. Your best throw stays on the hill. Duels have a catch.",
   "revoked": []
 }
