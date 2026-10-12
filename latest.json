@@ -1,8 +1,8 @@
 {
-  "version": "1.0.199",
-  "version_code": 200,
-  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.199/KIP-1.0.199.apk",
-  "sha256": "e669efe4bccb2ff101e7d9995704acd31e40057a87d6ae6d653fb167d127a4b1",
-  "release_notes": "Smoother everywhere. SmartBid gets a setup guide, templates, estimate numbers, and status. Clients can keep a job history.",
+  "version": "1.0.200",
+  "version_code": 201,
+  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.200/KIP-1.0.200.apk",
+  "sha256": "3a42ad70570614b08cf60c8b0920fde32690be693f6e5af192dac301f1cc327b",
+  "release_notes": "Everything K.I.P. saves now goes into one KIP folder on your phone. SmartBid explains each money field in a line.",
   "revoked": []
 }
