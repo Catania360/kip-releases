@@ -2,8 +2,8 @@
   "version": "2.12.0",
   "version_code": 33,
   "payload_url": "https://github.com/Catania360/kip-releases/releases/download/recall-v2.12.0-33/RECALL-2.12.0-33.krb",
-  "sha256": "8cfcbf74cd95c8dd086b6efed5d2496a0dba4a81d25fba2b7cc0965f90fcb348",
-  "sealed_sha256": "b661825d59d6c7cf40b3d3acfd42b9a5bf4a6545d89b257ac5703c8a9724b0de",
-  "size": 6241846,
-  "published": "2026-10-12T23:25:49.420Z"
+  "sha256": "492950a9f4d8ba24bef7b16983797eec7ee4668972af7d66b785038e6f455d8f",
+  "sealed_sha256": "42d3f1d6666c0b21c203b929d919b9b1e6ed030c7efa93aa9d8672ad3b0fd042",
+  "size": 6241906,
+  "published": "2026-10-12T23:27:05.011Z"
 }
