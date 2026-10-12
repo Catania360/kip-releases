@@ -1,7 +1,7 @@
 {
-  "version": "1.0.176",
-  "version_code": 177,
-  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.176/KIP-1.0.176.apk",
-  "release_notes": "Cave Man Archery finishers keep the figure you just hit. Bleed, Cleave, and Stuck are in the deck. Maul and Heart shot are in the armory. Head shots, finishers, and leftover arrows pay extra bones.",
+  "version": "1.0.177",
+  "version_code": 178,
+  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.177/KIP-1.0.177.apk",
+  "release_notes": "Cave Man Archery finishers all draw blood. Bleed, Cleave, and Stuck are clearer. Maul is a paw. Heart shot is an arrow to the chest. Barbed head, Storm flint, Twin notch, and Venom thorn are in the armory.",
   "revoked": []
 }
