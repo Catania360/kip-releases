@@ -1,8 +1,8 @@
 {
-  "version": "1.0.219",
-  "version_code": 220,
-  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.219/KIP-1.0.219.apk",
-  "sha256": "f49b41604399a956e559fc8f89f79d764798dffdc281f932567d73683f6d4fba",
+  "version": "1.0.220",
+  "version_code": 221,
+  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.220/KIP-1.0.220.apk",
+  "sha256": "f95f9cef8b09d365071b1747bf20876eab8f19530c7d14a7c6d8a202b01bc427",
   "release_notes": "Small fixes and polish.",
   "revoked": []
 }
