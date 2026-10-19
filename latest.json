@@ -1,8 +1,8 @@
 {
-  "version": "1.0.227",
-  "version_code": 228,
-  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.227/KIP-1.0.227.apk",
-  "sha256": "e490f1e334dc13310d21faab12bd12443353fabc73051ede9f1110107f1be720",
-  "release_notes": "Small fixes and polish.",
+  "version": "1.0.228",
+  "version_code": 229,
+  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.228/KIP-1.0.228.apk",
+  "sha256": "ae8e376136e7f111f95669a30b63bf7232f9dd22e8a7bc44f914b33ab5754bc6",
+  "release_notes": "Guided SmartBid with templates and your logo; optional chat pings and answer helpers.",
   "revoked": []
 }
