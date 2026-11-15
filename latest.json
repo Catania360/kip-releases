@@ -1,8 +1,8 @@
 {
-  "version": "1.0.254",
-  "version_code": 255,
-  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.254/KIP-1.0.254.apk",
-  "sha256": "6c8c13fd0529118de82dadf62e4e68e23408f26f464aa4b73739a796d042854d",
-  "release_notes": "Rolodex business cards: Work, Personal and Custom card sets, flick-through spindle, Card Case, and shareable card pages.",
+  "version": "1.0.255",
+  "version_code": 256,
+  "apk_url": "https://github.com/Catania360/kip-releases/releases/download/v1.0.255/KIP-1.0.255.apk",
+  "sha256": "1a5aa01d9707ed8a973e0fc527c071666d5564ecea432a1f8d50f96d708d9c2c",
+  "release_notes": "Small fixes and polish.",
   "revoked": []
 }
